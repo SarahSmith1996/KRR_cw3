@@ -1,0 +1,1 @@
+﻿Isaak, N. and Michael, L. 2016. Tackling the Winograd Schema Challenge Through Machine Logical Inferences. In: Pearce, D. and Pinto, H.S. eds. Proceedings of the Eighth European Starting Ai Researcher Symposium. pp.75-86.
